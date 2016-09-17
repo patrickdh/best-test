@@ -1,0 +1,31 @@
+{
+  "name": "best-test",
+  "version": "1.0.0",
+  "description": "Helping students getting the best out of their tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickdh/best-test.git"
+  },
+  "keywords": [
+    "best",
+    "test",
+    "exam",
+    "student",
+    "university",
+    "hack",
+    "the",
+    "north",
+    "2016",
+    "waterloo"
+  ],
+  "author": "Queen's Coding Team A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickdh/best-test/issues"
+  },
+  "homepage": "https://github.com/patrickdh/best-test#readme"
+}
